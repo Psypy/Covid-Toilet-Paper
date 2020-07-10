@@ -1,0 +1,24 @@
+{
+    "id": "1C36570A",
+    "path": "~/DataScience/Covid Toilet Paper/Data/ToPaQ_RScript.R",
+    "project_path": "Data/ToPaQ_RScript.R",
+    "type": "r_source",
+    "hash": "957593469",
+    "contents": "",
+    "dirty": false,
+    "created": 1594385863193.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "19,0",
+        "scrollLine": "9"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1594386865,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594386865028,
+    "read_only": false,
+    "read_only_alternatives": []
+}
